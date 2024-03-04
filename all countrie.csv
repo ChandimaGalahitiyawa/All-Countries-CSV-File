@@ -1,0 +1,221 @@
+Label,Value,Flag
+Select Country (Passport Issued),Select Country (Passport Issued),true
+Afghanistan,Afghanistan,true
+Albania,Albania,true
+Algeria,Algeria,true
+American Samoa,American Samoa,true
+Andorra,Andorra,true
+Angola,Angola,true
+Antigua And Barbuda,Antigua And Barbuda,true
+Argentina,Argentina,true
+Armenia,Armenia,true
+Aruba,Aruba,true
+Australia,Australia,true
+Austria,Austria,true
+Azerbaijan,Azerbaijan,true
+Bahamas,Bahamas,true
+Bahrain,Bahrain,true
+Bangladesh,Bangladesh,true
+Barbados,Barbados,true
+Belarus,Belarus,true
+Belgium,Belgium,true
+Belize,Belize,true
+Benin,Benin,true
+Bermuda,Bermuda,true
+Bhutan,Bhutan,true
+Bolivia,Bolivia,true
+Bosnia And Herzegovina,Bosnia And Herzegovina,true
+Botswana,Botswana,true
+Brazil,Brazil,true
+British Indian Ocean Territory,British Indian Ocean Territory,true
+British Virgin Islands,British Virgin Islands,true
+Brunei Darussalam,Brunei Darussalam,true
+Bulgaria,Bulgaria,true
+Burkina Faso,Burkina Faso,true
+Buruma (Myanmar),Buruma (Myanmar),true
+Burundi,Burundi,true
+Cambodia,Cambodia,true
+Cameroon,Cameroon,true
+Canada,Canada,true
+Cape Verde,Cape Verde,true
+Cayman Islands,Cayman Islands,true
+Central African Republic,Central African Republic,true
+Chad,Chad,true
+Chile,Chile,true
+China,China,true
+Colombia,Colombia,true
+Comoros,Comoros,true
+Cook Islands,Cook Islands,true
+Costa Rica,Costa Rica,true
+Croatia,Croatia,true
+Cuba,Cuba,true
+Cyprus,Cyprus,true
+Czech Republic,Czech Republic,true
+Democratic Republic Of The Congo,Democratic Republic Of The Congo,true
+Denmark,Denmark,true
+Djibouti,Djibouti,true
+Dominica,Dominica,true
+Dominican Republic,Dominican Republic,true
+Ecuador,Ecuador,true
+Egypt,Egypt,true
+El Salvador,El Salvador,true
+Equatorial Guinea,Equatorial Guinea,true
+Eritrea,Eritrea,true
+Estonia,Estonia,true
+Ethiopia,Ethiopia,true
+Falkland Islands (Malvinas),Falkland Islands (Malvinas),true
+Faroe Islands,Faroe Islands,true
+Fiji,Fiji,true
+Finland,Finland,true
+France,France,true
+French Guiana,French Guiana,true
+French Polynesia,French Polynesia,true
+French Southern Territories,French Southern Territories,true
+Gabon,Gabon,true
+Gambia,Gambia,true
+Georgia,Georgia,true
+Germany,Germany,true
+Ghana,Ghana,true
+Gibraltar,Gibraltar,true
+Greece,Greece,true
+Greenland,Greenland,true
+Grenada,Grenada,true
+Guadeloupe,Guadeloupe,true
+Guam,Guam,true
+Guatemala,Guatemala,true
+Guinea,Guinea,true
+Guinea-bissau,Guinea-bissau,true
+Guyana,Guyana,true
+Haiti,Haiti,true
+Holy See (Vatican City State),Holy See (Vatican City State),true
+Honduras,Honduras,true
+Hong Kong,Hong Kong,true
+Hungary,Hungary,true
+Iceland,Iceland,true
+India,India,true
+Indonesia,Indonesia,true
+Iran,Iran,true
+Iraq,Iraq,true
+Ireland,Ireland,true
+Israel,Israel,true
+Italy,Italy,true
+Jamaica,Jamaica,true
+Japan,Japan,true
+Jordan,Jordan,true
+Kazakhstan,Kazakhstan,true
+Kenya,Kenya,true
+Kiribati,Kiribati,true
+Korea,Korea,true
+Kuwait,Kuwait,true
+Kyrgyzstan,Kyrgyzstan,true
+Lao People's Democratic Republic,Lao People's Democratic Republic,true
+Latvia,Latvia,true
+Lebanon,Lebanon,true
+Lesotho,Lesotho,true
+Liberia,Liberia,true
+Libyan Arab Jamahiriya,Libyan Arab Jamahiriya,true
+Liechtenstein,Liechtenstein,true
+Lithuania,Lithuania,true
+Luxembourg,Luxembourg,true
+Macao,Macao,true
+Macedonia,Macedonia,true
+Madagascar,Madagascar,true
+Malawi,Malawi,true
+Malaysia,Malaysia,true
+Maldives,Maldives,true
+Mali,Mali,true
+Malta,Malta,true
+Marshall Islands,Marshall Islands,true
+Martinique,Martinique,true
+Mauritania,Mauritania,true
+Mauritius,Mauritius,true
+Mexico,Mexico,true
+Micronesia,Micronesia,true
+Moldova,Moldova,true
+Monaco,Monaco,true
+Mongolia,Mongolia,true
+Morocco,Morocco,true
+Mozambique,Mozambique,true
+Namibia,Namibia,true
+Nauru,Nauru,true
+Nepal,Nepal,true
+Netherlands,Netherlands,true
+Netherlands Antilles,Netherlands Antilles,true
+New Caledonia,New Caledonia,true
+New Zealand,New Zealand,true
+Nicaragua,Nicaragua,true
+Niger,Niger,true
+Nigeria,Nigeria,true
+Northern Mariana Islands,Northern Mariana Islands,true
+Norway,Norway,true
+Oman,Oman,true
+Pakistan,Pakistan,true
+Palau,Palau,true
+Palestinian Territory,Palestinian Territory,true
+Panama,Panama,true
+Papua New Guinea,Papua New Guinea,true
+Paraguay,Paraguay,true
+Peru,Peru,true
+Philippines,Philippines,true
+Poland,Poland,true
+Portugal,Portugal,true
+Puerto Rico,Puerto Rico,true
+Qatar,Qatar,true
+Republic Of The Congo,Republic Of The Congo,true
+Reunion,Reunion,true
+Romania,Romania,true
+Russian Federation,Russian Federation,true
+Rwanda,Rwanda,true
+Saint Kitts And Nevis,Saint Kitts And Nevis,true
+Saint Lucia,Saint Lucia,true
+Saint Vincent And The Grenadines,Saint Vincent And The Grenadines,true
+Samoa,Samoa,true
+San Marino,San Marino,true
+Sao Tome And Principe,Sao Tome And Principe,true
+Saudi Arabia,Saudi Arabia,true
+Senegal,Senegal,true
+Serbia,Serbia,true
+Seychelles,Seychelles,true
+Sierra Leone,Sierra Leone,true
+Singapore,Singapore,true
+Slovakia,Slovakia,true
+Slovenia,Slovenia,true
+Solomon Islands,Solomon Islands,true
+Somalia,Somalia,true
+South Africa,South Africa,true
+Spain,Spain,true
+Sri Lanka,Sri Lanka,true
+Sudan,Sudan,true
+Suriname,Suriname,true
+Swaziland,Swaziland,true
+Sweden,Sweden,true
+Switzerland,Switzerland,true
+Syrian Arab Republic,Syrian Arab Republic,true
+Taiwan,Taiwan,true
+Tajikistan,Tajikistan,true
+Tanzania,Tanzania,true
+Thailand,Thailand,true
+Timor-leste,Timor-leste,true
+Togo,Togo,true
+Tokelau,Tokelau,true
+Tonga,Tonga,true
+Trinidad And Tobago,Trinidad And Tobago,true
+Tunisia,Tunisia,true
+Turkey,Turkey,true
+Turkmenistan,Turkmenistan,true
+Tuvalu,Tuvalu,true
+Uganda,Uganda,true
+Ukraine,Ukraine,true
+United Arab Emirates,United Arab Emirates,true
+United Kingdom,United Kingdom,true
+United States,United States,true
+Uruguay,Uruguay,true
+Us Virgin Islands,Us Virgin Islands,true
+Uzbekistan,Uzbekistan,true
+Vanuatu,Vanuatu,true
+Venezuela,Venezuela,true
+Vietnam,Vietnam,true
+Vory Coast,Vory Coast,true
+Yemen,Yemen,true
+Zambia,Zambia,true
+Zimbabwe,Zimbabwe,true
